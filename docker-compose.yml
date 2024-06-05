@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  mi-app:
+    image: nombre-de-mi-imagen
+    ports:
+      - "3000:3000"
